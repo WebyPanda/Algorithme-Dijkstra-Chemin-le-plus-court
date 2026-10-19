@@ -15,7 +15,7 @@ We provided two ways to use it, depending on whether you prefer a pure command l
 
 ### Option A: Command Mode (required by the assignment)
 
-Use the `main.py` file. It takes specific arguments and gives you the direct output.
+Use the `main.py` file. It takes specific arguments and gives you the direct output
 
 **Command:**
 
