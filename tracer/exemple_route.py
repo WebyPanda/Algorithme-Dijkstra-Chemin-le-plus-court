@@ -1,4 +1,4 @@
-from tracer.tracer_toulouse import tracer_route_toulouse
+from tracer_toulouse import tracer_route_toulouse
 
 fichier = "donnees/toulouse.graphml"
 route = [2246623826, 238136620, 5133413795, 5133413794, 2201909920, 9124987264, 9124987268, 9277415270, 1003505602,
